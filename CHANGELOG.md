@@ -2,20 +2,22 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**
 
-- [Unreleased (2021-07-24)](#unreleased-2021-07-24)
+- [ (2021-08-18)](#2021-08-18)
     - [Bug Fixes](#bug-fixes)
+    - [Documentation](#documentation)
+    - [Features](#features)
 - [0.7.1-alpha.1 (2021-07-22)](#071-alpha1-2021-07-22)
     - [Bug Fixes](#bug-fixes-1)
     - [Code Generation](#code-generation)
-    - [Documentation](#documentation)
+    - [Documentation](#documentation-1)
     - [Tests](#tests)
 - [0.7.0-alpha.1 (2021-07-13)](#070-alpha1-2021-07-13)
   - [Breaking Changes](#breaking-changes)
     - [Bug Fixes](#bug-fixes-2)
     - [Code Generation](#code-generation-1)
     - [Code Refactoring](#code-refactoring)
-    - [Documentation](#documentation-1)
-    - [Features](#features)
+    - [Documentation](#documentation-2)
+    - [Features](#features-1)
     - [Tests](#tests-1)
     - [Unclassified](#unclassified)
 - [0.6.3-alpha.1 (2021-05-17)](#063-alpha1-2021-05-17)
@@ -25,52 +27,52 @@
     - [Code Refactoring](#code-refactoring-1)
 - [0.6.2-alpha.1 (2021-05-14)](#062-alpha1-2021-05-14)
     - [Code Generation](#code-generation-3)
-    - [Documentation](#documentation-2)
+    - [Documentation](#documentation-3)
 - [0.6.1-alpha.1 (2021-05-11)](#061-alpha1-2021-05-11)
     - [Code Generation](#code-generation-4)
-    - [Features](#features-1)
+    - [Features](#features-2)
 - [0.6.0-alpha.2 (2021-05-07)](#060-alpha2-2021-05-07)
     - [Bug Fixes](#bug-fixes-4)
     - [Code Generation](#code-generation-5)
-    - [Features](#features-2)
+    - [Features](#features-3)
 - [0.6.0-alpha.1 (2021-05-05)](#060-alpha1-2021-05-05)
   - [Breaking Changes](#breaking-changes-2)
     - [Bug Fixes](#bug-fixes-5)
     - [Code Generation](#code-generation-6)
     - [Code Refactoring](#code-refactoring-2)
-    - [Documentation](#documentation-3)
-    - [Features](#features-3)
+    - [Documentation](#documentation-4)
+    - [Features](#features-4)
     - [Tests](#tests-2)
     - [Unclassified](#unclassified-1)
 - [0.5.5-alpha.1 (2020-12-09)](#055-alpha1-2020-12-09)
     - [Bug Fixes](#bug-fixes-6)
     - [Code Generation](#code-generation-7)
-    - [Documentation](#documentation-4)
-    - [Features](#features-4)
+    - [Documentation](#documentation-5)
+    - [Features](#features-5)
     - [Tests](#tests-3)
     - [Unclassified](#unclassified-2)
 - [0.5.4-alpha.1 (2020-11-11)](#054-alpha1-2020-11-11)
     - [Bug Fixes](#bug-fixes-7)
     - [Code Generation](#code-generation-8)
     - [Code Refactoring](#code-refactoring-3)
-    - [Documentation](#documentation-5)
-    - [Features](#features-5)
+    - [Documentation](#documentation-6)
+    - [Features](#features-6)
 - [0.5.3-alpha.1 (2020-10-27)](#053-alpha1-2020-10-27)
     - [Bug Fixes](#bug-fixes-8)
     - [Code Generation](#code-generation-9)
-    - [Documentation](#documentation-6)
-    - [Features](#features-6)
+    - [Documentation](#documentation-7)
+    - [Features](#features-7)
     - [Tests](#tests-4)
 - [0.5.2-alpha.1 (2020-10-22)](#052-alpha1-2020-10-22)
     - [Bug Fixes](#bug-fixes-9)
     - [Code Generation](#code-generation-10)
-    - [Documentation](#documentation-7)
+    - [Documentation](#documentation-8)
     - [Tests](#tests-5)
 - [0.5.1-alpha.1 (2020-10-20)](#051-alpha1-2020-10-20)
     - [Bug Fixes](#bug-fixes-10)
     - [Code Generation](#code-generation-11)
-    - [Documentation](#documentation-8)
-    - [Features](#features-7)
+    - [Documentation](#documentation-9)
+    - [Features](#features-8)
     - [Tests](#tests-6)
     - [Unclassified](#unclassified-3)
 - [0.5.0-alpha.1 (2020-10-15)](#050-alpha1-2020-10-15)
@@ -78,8 +80,8 @@
     - [Bug Fixes](#bug-fixes-11)
     - [Code Generation](#code-generation-12)
     - [Code Refactoring](#code-refactoring-4)
-    - [Documentation](#documentation-9)
-    - [Features](#features-8)
+    - [Documentation](#documentation-10)
+    - [Features](#features-9)
     - [Tests](#tests-7)
     - [Unclassified](#unclassified-4)
 - [0.4.6-alpha.1 (2020-07-13)](#046-alpha1-2020-07-13)
@@ -91,7 +93,7 @@
 - [0.4.4-alpha.1 (2020-07-10)](#044-alpha1-2020-07-10)
     - [Bug Fixes](#bug-fixes-14)
     - [Code Generation](#code-generation-15)
-    - [Documentation](#documentation-10)
+    - [Documentation](#documentation-11)
 - [0.4.3-alpha.1 (2020-07-08)](#043-alpha1-2020-07-08)
     - [Bug Fixes](#bug-fixes-15)
     - [Code Generation](#code-generation-16)
@@ -103,52 +105,52 @@
     - [Bug Fixes](#bug-fixes-17)
     - [Code Generation](#code-generation-18)
     - [Code Refactoring](#code-refactoring-5)
-    - [Documentation](#documentation-11)
-    - [Features](#features-9)
+    - [Documentation](#documentation-12)
+    - [Features](#features-10)
     - [Unclassified](#unclassified-5)
 - [0.3.0-alpha.1 (2020-05-15)](#030-alpha1-2020-05-15)
   - [Breaking Changes](#breaking-changes-5)
     - [Bug Fixes](#bug-fixes-18)
     - [Chores](#chores)
     - [Code Refactoring](#code-refactoring-6)
-    - [Documentation](#documentation-12)
-    - [Features](#features-10)
+    - [Documentation](#documentation-13)
+    - [Features](#features-11)
     - [Unclassified](#unclassified-6)
 - [0.2.1-alpha.1 (2020-05-05)](#021-alpha1-2020-05-05)
     - [Chores](#chores-1)
-    - [Documentation](#documentation-13)
+    - [Documentation](#documentation-14)
 - [0.2.0-alpha.2 (2020-05-04)](#020-alpha2-2020-05-04)
   - [Breaking Changes](#breaking-changes-6)
     - [Bug Fixes](#bug-fixes-19)
     - [Chores](#chores-2)
     - [Code Refactoring](#code-refactoring-7)
-    - [Documentation](#documentation-14)
-    - [Features](#features-11)
+    - [Documentation](#documentation-15)
+    - [Features](#features-12)
     - [Unclassified](#unclassified-7)
 - [0.1.1-alpha.1 (2020-02-18)](#011-alpha1-2020-02-18)
     - [Bug Fixes](#bug-fixes-20)
     - [Code Refactoring](#code-refactoring-8)
-    - [Documentation](#documentation-15)
+    - [Documentation](#documentation-16)
 - [0.1.0-alpha.6 (2020-02-16)](#010-alpha6-2020-02-16)
     - [Bug Fixes](#bug-fixes-21)
     - [Code Refactoring](#code-refactoring-9)
-    - [Documentation](#documentation-16)
-    - [Features](#features-12)
-- [0.1.0-alpha.5 (2020-02-06)](#010-alpha5-2020-02-06)
     - [Documentation](#documentation-17)
     - [Features](#features-13)
+- [0.1.0-alpha.5 (2020-02-06)](#010-alpha5-2020-02-06)
+    - [Documentation](#documentation-18)
+    - [Features](#features-14)
 - [0.1.0-alpha.4 (2020-02-06)](#010-alpha4-2020-02-06)
     - [Continuous Integration](#continuous-integration)
-    - [Documentation](#documentation-18)
+    - [Documentation](#documentation-19)
 - [0.1.0-alpha.3 (2020-02-06)](#010-alpha3-2020-02-06)
     - [Continuous Integration](#continuous-integration-1)
 - [0.1.0-alpha.2 (2020-02-03)](#010-alpha2-2020-02-03)
     - [Bug Fixes](#bug-fixes-22)
-    - [Documentation](#documentation-19)
-    - [Features](#features-14)
+    - [Documentation](#documentation-20)
+    - [Features](#features-15)
     - [Unclassified](#unclassified-8)
 - [0.1.0-alpha.1 (2020-01-31)](#010-alpha1-2020-01-31)
-    - [Documentation](#documentation-20)
+    - [Documentation](#documentation-21)
 - [0.0.3-alpha.15 (2020-01-31)](#003-alpha15-2020-01-31)
     - [Unclassified](#unclassified-9)
 - [0.0.3-alpha.14 (2020-01-31)](#003-alpha14-2020-01-31)
@@ -184,21 +186,70 @@
 - [0.0.1-alpha.2 (2020-01-28)](#001-alpha2-2020-01-28)
     - [Continuous Integration](#continuous-integration-7)
 - [0.0.1-alpha.1 (2020-01-28)](#001-alpha1-2020-01-28)
-    - [Documentation](#documentation-21)
+    - [Documentation](#documentation-22)
     - [Unclassified](#unclassified-21)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-# [Unreleased](https://github.com/ory/kratos/compare/v0.7.1-alpha.1...de5fb3e52af9f2d0f1209eed217403a5d7d1ae2d) (2021-07-24)
+# [](https://github.com/ory/kratos/compare/v0.7.1-alpha.1...v) (2021-08-18)
 
 
 ### Bug Fixes
 
+* Add new message when refresh parameter is true ([#1560](https://github.com/ory/kratos/issues/1560)) ([0525623](https://github.com/ory/kratos/commit/05256232bf85d68e068eece6c883f46a447ba5bd)), closes [#1117](https://github.com/ory/kratos/issues/1117)
+* Add session in spa registration if session cook is configured ([#1657](https://github.com/ory/kratos/issues/1657)) ([639a7dd](https://github.com/ory/kratos/commit/639a7dd52d43c57e9708ed3e7360c17d6efde6a5)), closes [#1604](https://github.com/ory/kratos/issues/1604)
+* **docs:** Ensure config reference is updated ([f6b3aa4](https://github.com/ory/kratos/commit/f6b3aa45b1f39ca5e9ee7ef4cd96de1970b2ed71)), closes [#1597](https://github.com/ory/kratos/issues/1597)
+* Http context memory leak ([b21bd22](https://github.com/ory/kratos/commit/b21bd224059e8a42da9814237572a118297c5210)):
+
+    Ory Kratos was using `gorilla/sessions` prior to version v1.2 which had a dependency on `gorilla/context`, a deprecated library with known memory management issues. Even though we used `gorilla/context`'s clean up middleware, it appears that `r.Context()` was not properly cleaned up, causing memory leaks.
+    
+    On average, the memory leak is pretty small, but depending on what gets added to `r.Context()` it could significantly increase the memory leak.
+    
+    By replacing `gorilla/sessions` with v1.2.1 we:
+    
+    1. Increased the HTTP API throughput by an estimate of 4 times;
+    2. Brought average memory use back down to about 12MB;
+    
+    Closes https://github.com/ory-corp/cloud/issues/1292
+
+* Register argon2 CLI commands properly ([#1592](https://github.com/ory/kratos/issues/1592)) ([45c28d9](https://github.com/ory/kratos/commit/45c28d99064baf8051521a1078ac2b59bb3206ec))
 * Remove session cookie on logout ([#1587](https://github.com/ory/kratos/issues/1587)) ([cdb30bb](https://github.com/ory/kratos/commit/cdb30bb65ac932a17e4924b4efc8952113452513)), closes [#1584](https://github.com/ory/kratos/issues/1584):
 
     Before, the logout endpoint would invalidate the session cookie, but not remove it. This was a regression introduced in 0.7.0. This patch resolves that issue.
 
+* **sdk:** Use proper annotation for genericError ([#1611](https://github.com/ory/kratos/issues/1611)) ([da214b2](https://github.com/ory/kratos/commit/da214b2933ae2a91d8c5bf6aa8eea613a2078b9d)), closes [#1609](https://github.com/ory/kratos/issues/1609)
+* Skip prompt on discord authorization by default ([#1594](https://github.com/ory/kratos/issues/1594)) ([a667255](https://github.com/ory/kratos/commit/a6672554b02378eb2dac7b1af99ea2915395867b)):
+
+    When a value for prompt is not provided, Discord defaults to `prompt="consent"`. This change makes it so that if the request is not forced, prompt is explicitly set to "none".
+
+* Update csrf token cookie name ([#1601](https://github.com/ory/kratos/issues/1601)) ([64c90bf](https://github.com/ory/kratos/commit/64c90bf5e5cec6545a81f88ad5fabb29e9e80850)):
+
+    See https://github.com/ory-corp/cloud/issues/1252
+
 * Use eager preloading for list identites endpoint ([#1588](https://github.com/ory/kratos/issues/1588)) ([de5fb3e](https://github.com/ory/kratos/commit/de5fb3e52af9f2d0f1209eed217403a5d7d1ae2d))
+
+### Documentation
+
+* Change model to schema ([#1639](https://github.com/ory/kratos/issues/1639)) ([09c403e](https://github.com/ory/kratos/commit/09c403e55482e91a5bfe9a253e514b7a90826709))
+* Fix stub error example ([#1642](https://github.com/ory/kratos/issues/1642)) ([9bc2fd0](https://github.com/ory/kratos/commit/9bc2fd088ed9b3e7334713e63bae3c7bbcb922db)), closes [#1568](https://github.com/ory/kratos/issues/1568)
+* Fixes incorrect yaml identation ([#1641](https://github.com/ory/kratos/issues/1641)) ([6b58278](https://github.com/ory/kratos/commit/6b582784b49c1d103bbf7a6843cdf197fbd93931))
+* Identity traits are visible to user ([#1621](https://github.com/ory/kratos/issues/1621)) ([641eba6](https://github.com/ory/kratos/commit/641eba675bdc583661565a6378776bfad26067c6))
+* Make qickstart URLs consistent (playground vs. localhost) ([#1626](https://github.com/ory/kratos/issues/1626)) ([bae1847](https://github.com/ory/kratos/commit/bae1847eba0d925f28a010876e35e3c2093bc8c6)):
+
+    Since the quick-start describes how to run Kratos locally the actual location of the redirect is `http://127.0.0.1:4433/self-service/login/browser`.
+
+* Update docker.md - Outdated information ([#1627](https://github.com/ory/kratos/issues/1627)) ([dc32720](https://github.com/ory/kratos/commit/dc32720de25f52b7deb3e32f7530c7827a6ce5df)), closes [#1619](https://github.com/ory/kratos/issues/1619):
+
+    Kratos does not automatically use a config file that exists at `$HOME/.kratos.yaml`, or any other similar pattern. The documentation in the Docker Images section of the guides could lead developers to believe that the --config flag is unnecessary if they are binding the directory the configuration file is in to $HOME or using a custom docker image to provide the file.
+
+
+### Features
+
+* Allow multiple webhook body sources ([#1606](https://github.com/ory/kratos/issues/1606)) ([51b1311](https://github.com/ory/kratos/commit/51b131177c9e0db018eced939fef43742c9e86cf)):
+
+    This patch adds support for loading webhooks from the local filesystem, base64 encoded inline string, and remote (http/https) sources. Please note that support for relative/absolute paths without an URI scheme are deprecated and will eventually be removed.
+
+* Require verified address ([#1355](https://github.com/ory/kratos/issues/1355)) ([1cf61cd](https://github.com/ory/kratos/commit/1cf61cdeedbd8bf5b66310793249681ff976baab)), closes [#1328](https://github.com/ory/kratos/issues/1328)
 
 
 # [0.7.1-alpha.1](https://github.com/ory/kratos/compare/v0.7.0-alpha.1...v0.7.1-alpha.1) (2021-07-22)
